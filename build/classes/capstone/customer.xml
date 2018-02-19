@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+<Customers>
+<Customer Email="notorious@gmail.com">
+<FirstName>Conor</FirstName>
+<LastName>McGregor</LastName>
+
+</Customer>
+<Customer Email="blessed@yahoo.com">
+<FirstName>Max</FirstName>
+<LastName>Holloway</LastName>
+
+</Customer>
+<Customer Email="irishdragon@me.com">
+<FirstName>Paul</FirstName>
+<LastName>Felder</LastName>
+
+</Customer>
+</Customers>
+
+</root>
